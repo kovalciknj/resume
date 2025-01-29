@@ -8,9 +8,13 @@ B.S. Biology: Ecology, Evolution, and Environmental
 GIS Certified
 ## Relevant Experience
 Collections based Capstone Course
+
 Lichenology
+
 Aquatic Biology
+
 Ecology
+
 Conservation Biology
 
 
