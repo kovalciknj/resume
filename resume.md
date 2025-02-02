@@ -7,6 +7,7 @@ Boone, NC, USA
 
 ## Education
 B.S. Biology: Ecology, Evolution, and Environmental
+
 GIS Certified
 ## Relevant Experience
 Collections based Capstone Course
